@@ -1,4 +1,4 @@
-# chatgpt_helloWorld
+# Create Simple CLI based chatgpt like helloWorld example
 Author: IRSHAD
 
 Step-1: Install prerequisite
